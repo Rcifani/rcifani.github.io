@@ -196,4 +196,15 @@ footer{
     background-color: #454545;
     transition-duration: 150ms;
 }
+
+.wrapper {
+  min-height: 100%;
+
+  margin-bottom: -50px;
+}
+.footer,
+.push {
+  height: 50px;
+}
+
     
